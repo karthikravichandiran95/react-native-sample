@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "localise_native",
+    "displayName": "localise_native",
+    "slug": "localise_native",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-localization",
+      "react-native-document-scanner-plugin"
+    ],
+    "android": {
+      "package": "com.localise_native.app"
+    },
+    "ios": {
+      "bundleIdentifier": "n"
+    }
+  }
+}
